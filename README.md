@@ -4,7 +4,7 @@
 
 [![Users App Video]()](https://github.com/Shreyak810/RoadEase-App/assets/113600207/00a5e4b1-68c9-4c77-870e-d2b4e642a0da)
 
-Click the image above to watch the video.
+
 
 ## Working of Mechanic App
 
